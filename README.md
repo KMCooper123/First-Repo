@@ -1,2 +1,1 @@
-# First-Repo
- Learning about GitHub
+# Techdegree Project 3
